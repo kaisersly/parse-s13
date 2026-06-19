@@ -12,3 +12,13 @@
 
 1. Télécharger le répertoire S13 et le copier dans le répertoire de l'application.
 2. Dans le répertoire de l'application, lancer la commande `uv run parse_s13.py`.
+
+## Mode édition
+
+Le mode édition permet de comprendre la structure du programme.
+
+1. Dans le répertoire de l'application, lancer la commande `uv run marimo edit parse_s13.py`.
+2. Si le navigateur ne s'ouvre pas automatiquement, copier le lien *URL:* dans un navigateur.
+3. Cliquer sur le bouton Play en bas à droite pour exécuter l'ensemble des cellules.
+
+Pour plus d'informations, voir [Marimo](https://marimo.io/)
